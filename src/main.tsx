@@ -1,1 +1,1 @@
-alert("ksi");
+alert("ksidelta");
