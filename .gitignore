@@ -3,4 +3,3 @@
 node_modules
 package-lock.json
 public/script
-!public/script/.gitkeep

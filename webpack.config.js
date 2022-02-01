@@ -1,5 +1,7 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const path = require('path')
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+
 
 module.exports = {
   entry: './src/main.tsx',
@@ -33,5 +35,5 @@ module.exports = {
       }
     ]
   },
-  plugins: []
+  plugins: [new HtmlWebpackPlugin()]
 }
