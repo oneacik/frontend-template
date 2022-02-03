@@ -60,6 +60,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "styled-components": "^5.2.1",
+    "typescript-styled-plugin": "^0.18.2",
     "webpack-dev-server": "^4.7.3"
   }
 }
